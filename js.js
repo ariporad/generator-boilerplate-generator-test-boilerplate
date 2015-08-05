@@ -2,6 +2,6 @@
  * Created by Ari on 8/4/15.
  */
 
-document.getElementById('{{#= name#}}').onclick = function(){
+document.getElementById('{{#= slug#}}').onclick = function(){
   alert('Welcome to {{#= name#}}!');
 }
