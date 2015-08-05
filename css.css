@@ -4,5 +4,5 @@
 
 .{{#= name #}}:after {
 	color: green;
-	content: " {{#name#} } doesn't work"
+	content: " {{#name#}} doesn't work"
 }

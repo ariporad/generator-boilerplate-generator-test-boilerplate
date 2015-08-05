@@ -1,1 +1,1 @@
-This has no extension, but is part of {{# = name ##}}.
+This has no extension, but is part of {{# = name #}}.
