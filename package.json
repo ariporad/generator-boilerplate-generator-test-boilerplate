@@ -1,0 +1,19 @@
+{
+  "name": "generator-boilerplate-generator-test-boilerplate",
+  "version": "99.38.76",
+  "description": "A boilerplate for testing generator-boilerplate-generator",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariporad/generator-boilerplate-generator-test-boilerplate.git"
+  },
+  "author": "Ari Porad <ariporad+npm@gmail.com> (http://github.com/ariporad)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ariporad/generator-boilerplate-generator-test-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ariporad/generator-boilerplate-generator-test-boilerplate#readme"
+}

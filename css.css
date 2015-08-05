@@ -1,0 +1,8 @@
+.{{#= name #}} {
+	color: blue;
+}
+
+.{{#= name #}}:after {
+	color: green;
+	content: " {{#name#} } doesn't work"
+}
